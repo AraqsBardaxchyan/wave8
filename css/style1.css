@@ -1,0 +1,33 @@
+.h-region__icon,
+.h-region__link,
+.h-region__link{
+	
+}
+
+.h-region,
+.h-region__link,.h-pickup__list,
+.h-pickup__item,.h-phone__hours,
+.h-phone__inner,.h-user__link,.header__inner,
+.h-search__btn ,.header_up__inner,
+.header__shop,.h-compare__link,.h-present__link,.nav__inner,
+.main-nav__toggle,.menu__link,.menu__list,
+.b-top2__btn,.top__btn__btns,.b-main-brands__item ,.b-main-brands__list,
+.sl,.slider__inner,.span__text
+{
+	display: flex;
+}
+
+.h-region__link:hover,.h-pickup__item:hover,.h-user__link:hover,
+.h-utp__link:hover
+{
+	text-decoration: underline;
+}
+
+.main,.header,.pre-hider,.nav,.phone__img,.phone__img__part,
+.phone__img__slid__part,footer,.section{
+	width: 100%;
+}
+
+.h-phone__text:hover,.main-nav__toggle:hover,.menu__link:hover{
+	color: #E9A721;
+}
